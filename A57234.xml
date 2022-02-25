@@ -1,0 +1,245 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd before the Right Honourable the Lord Mayor and aldermen of the city of London at the Guildhall-Chappel, September XVII, 1682 by Joshua Richardson ...</title>
+            <author>Richardson, Joshua, 1649 or 50-1733.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57234</idno>
+            <idno type="STC">Wing R1389</idno>
+            <idno type="STC">ESTC R11880</idno>
+            <idno type="EEBO-CITATION">13574873</idno>
+            <idno type="OCLC">ocm 13574873</idno>
+            <idno type="VID">100419</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57234)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100419)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 799:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd before the Right Honourable the Lord Mayor and aldermen of the city of London at the Guildhall-Chappel, September XVII, 1682 by Joshua Richardson ...</title>
+                  <author>Richardson, Joshua, 1649 or 50-1733.</author>
+               </titleStmt>
+               <extent>[4], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A.G. and J.P. for W. Ketilby ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata: p. 28.</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Proverbs XIV, 34 --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100419:1"/>
+            <pb facs="tcp:100419:1" rendition="simple:additions"/>
+            <p>A SERMON <hi>Preach'd before the Right Honourable the</hi> LORD MAYOR AND ALDERMEN Of the CITY of LONDON, AT THE <hi>
+                  <hi>Guildhall-Chappel,</hi> September</hi> XVII. 1682.</p>
+            <p>By JOSHUA RICHARDSON, A.M. Chaplain to his Lordſhip.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>A.G.</hi> and <hi>J.P.</hi> for <hi>W. Ketilby,</hi> at the <hi>Biſhops-head</hi> in St. <hi>Paul</hi>'s Church-yard, 1682.</p>
+         </div>
+         <div type="approbation">
+            <pb facs="tcp:100419:2"/>
+            <head>MOORE MAYOR.</head>
+            <head type="sub">
+               <hi>Martis</hi> xxvi<hi rend="sup">o</hi> 
+               <hi>die Septembris,</hi> 1682. <hi>Annoque Regni Regis</hi> Caroli <hi>Secundi, Angliae, &amp;c. Triceſimo quarto.</hi>
+            </head>
+            <p>THIS Court doth deſire Mr. <hi>Richard<g ref="char:EOLhyphen"/>ſon</hi> to print his SERMON lately preached at the <hi>Guildhall-Chappel,</hi> before the Lord Mayor and Aldermen of this City.</p>
+            <closer>
+               <signed>Wagſtaffe.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:100419:2"/>
+            <head>To the Right Honourable <hi>Sir JOHN MOORE, K<hi rend="sup">t.</hi> Lord Mayor of the City of LONDON.</hi>
+            </head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>THE mean Opinion I had of this ſlight Compoſition when I preach'd it, re<g ref="char:EOLhyphen"/>mov'd me far from any Apprehenſions of an Order to print it; but Your Lordſhip, and the Honourable Court, to whom it is habitual to over-value all the Performances of Your Servants, having required the prin<g ref="char:EOLhyphen"/>ting of it; I preſent you with an honeſt, well<g ref="char:EOLhyphen"/>meant Sermon, and of which I ſhould deſpiſe from any Man the Complement of a higher Character. The Relation I ſtand in to Your Lordſhip, might put me under a temptation
+<pb facs="tcp:100419:3"/>of taking this Opportunity to mention ſome<g ref="char:EOLhyphen"/>thing that might look like Flattery; but Your Lordſhip's Virtue ſurmounts the Poſſibility of it. To ſay that the Memorable Lord Mayor of Eighty two, Sir <hi>JOHN MOORE,</hi> is a Perſon moſt exemplarily Devout and Pious, Wiſe and Prudent, Obliging and Af<g ref="char:EOLhyphen"/>fable, Valiant and Loyal, were no more than for which I ſhould have all the honeſt World my Vouchers. May God Almighty bleſs Your Lordſhip, and grant that this City may al<g ref="char:EOLhyphen"/>ways have ſuch a Magiſtrate to fill the Chair. I am,</p>
+            <closer>
+               <salute>My Lord,</salute> 
+               <signed>Your Lordſhip's moſt obedient Servant and Chaplain, JOSHUA RICHARDSON.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:100419:3"/>
+            <head>A SERMON <hi>Preach'd before the Right Honourable the</hi> LORD MAYOR.</head>
+            <epigraph>
+               <bibl>PROV. XIV. 34.</bibl>
+               <q>
+                  <hi>Righteouſneſs exalteth a Nation: but Sin is a reproach to any People.</hi>
+               </q>
+            </epigraph>
+            <p>WHEN there is no Propenſity more prevailing in Humane Nature, than the deſire of Honour and Eſteem, and there is ſcarce any thing which Men bear more Impatiently than the being rendred little and deſpicable; when a nice Reſentment of any Diminution does
+<pb n="2" facs="tcp:100419:4"/>not only affect ſome particular Perſons, but ſpreads it ſelf, like an Univerſal Genius, through whole Communities and Bodies Po<g ref="char:EOLhyphen"/>litic; inſomuch that the ſeveral Individuals do not only agree to defray every one his ſhare of the Charges, requiſite to ſupport the Dignity of the juſt Governments they live under, but are in ſome Conſtitutions known willingly to ſubmit to many private Preſſures for the promoting of the Grandeur of the whole: things ſtanding thus, I ſay, it might appear ſtrange and ſurpriſing that any ſociety of Men ſhould be generally vicious and de<g ref="char:EOLhyphen"/>bauch'd, when there is nothing more certain than that Virtue and Piety alone can render them great and conſiderable, and that by the ſame degrees that they degenerate from the practice of Religion, they muſt neceſſarily ſink and dwindle into Contempt among all that are round about 'em, And yet, in an Age that has reconciled almoſt all Moral Con<g ref="char:EOLhyphen"/>tradictions, Experience does convince us, that, whether their Underſtandings are more infatuated, or their Wills more perverted,
+<pb n="3" facs="tcp:100419:4"/>Men generally act in this matter by wrong Meaſures, and purſue their moſt deſired End by falſe Means. Though Juſtice and Integrity, Agreement and Union, Fortitude and Mag<g ref="char:EOLhyphen"/>nanimity, Diligence and Induſtry, and the like Virtues, are the great Inſtruments of advan<g ref="char:EOLhyphen"/>cing the Reputation of a Kingdom or State, yet while Men retain a ſtrong deſire to This, they retchleſly neglect the practice of Thoſe, and ſeem to lie under the fatal Deluſion of a deceitful hope that Vice and Infamy are not inſeparable. Now this may ariſe either from a more confirm'd Miſtake concerning, or an actual Inadvertency to, the true State of the matter; and in order to remove Both, I ſhall endeavour in the following diſcourſe to evince the everlaſting Truth, and to prompt you to a preſent Conſideration, of the Aſſertion of my Text: <hi>Righteouſneſs exalteth a Nation: but ſin is a reproach to any People.</hi>
+            </p>
+            <p>In treating of which words I ſhall do theſe two things:</p>
+            <p n="1">I. I ſhall conſider two particular Notions of Righteouſneſs contained in Scripture,
+<pb n="4" facs="tcp:100419:5"/>which may be accommodated to our preſent purpoſe.</p>
+            <p n="2">II. Becauſe both the Aſſertions of my Text, (after I ſhall have briefly given you an ac<g ref="char:EOLhyphen"/>count of the Righteouſneſs therein mentioned) are ſo plain and obvious that I need not vary them into any other Propoſitions, I ſhall en<g ref="char:EOLhyphen"/>deavour to make out diſtinctly the truth of each of 'em as they lie before me.</p>
+            <p n="1">I. I am to conſider two particular Notions of Righteouſneſs contained in Scripture, which may be accommodated to our preſent purpoſe. Now Righteouſneſs in Scripture, as it falls within the compaſs of our preſent Undertaking, may be conſidered either in a more ſtrict and con<g ref="char:EOLhyphen"/>fin'd, or a more large and comprehenſive ſenſe.</p>
+            <p>
+               <hi>Firſt,</hi> In a ſtricter and more confined ſenſe, it is taken for that Equity which ought to be obſerved both in diſtributive and commu<g ref="char:EOLhyphen"/>tative Juſtice; in rendring to every one his Right with regard to more Public and Judicial proceedings, and in doing as we would be done by in our mutual Dealings and private Contracts with one another. With reſpect to
+<pb n="5" facs="tcp:100419:5"/>the former, <hi>Lev.</hi> 19.15. the Jewiſh Magiſtrates have this Command given them: <hi>Ye ſhall do no <g ref="char:V">Ʋ</g>nrighteouſneſs in Judgment, thou ſhalt not reſpect the Perſon of the Poor, nor honour the Perſon of the Mighty, but in Righteouſneſs ſhalt thou judge thy Neighbour.</hi> And with re<g ref="char:EOLhyphen"/>gard to the latter, <hi>Pſal.</hi> 15. to the queſtion, <hi>Who ſhall abide in thy Tabernacle, who ſhall dwell in thy holy hill?</hi> the Anſwer is, <hi>he that walketh uprightly, and worketh Righteouſneſs;</hi> and what Righteouſneſs is there meant, appears by the ſeveral inſtances of it afterwards enumerated, viz. <hi>That ſpeaketh the truth in his Heart, that backbiteth not with his Tongue, that does no evil to his Neighbour, that ſweareth to his own hurt and changeth not;</hi> that is, who is ſincere and unreſerv'd, Charitable and uncenſorious, in<g ref="char:EOLhyphen"/>nocent and harmleſs, and ſo inflexibly juſt to any Promiſes he makes, however diſadvan<g ref="char:EOLhyphen"/>tagious they may prove to his own Intereſt, that he continues honeſt and punctual to 'em though he be a loſer thereby. Now according to this Acceptation of the word, the Righteous Man is he, who, if he be a Magiſtrate, has
+<pb n="6" facs="tcp:100419:6"/>the Courage to ſtem a popular Current, and dares go through with his Duty, though ap<g ref="char:EOLhyphen"/>poſed by a potent and reſtleſs Faction; who is even and ſteady in all his Actions, and ſuffers not himſelf to be byaſs'd either by Paſſion or Intereſt, but in all his Proceedings acts without Partiality; who is neither to be brib'd nor aw'd into or out of any thing, but is guided by the Rules of eternal Juſtice and Rectitude, Conſcience and Equity: Or, if he be a private Man, he is one that is fair and open in all his Dealings; that does to others as he may warrantably expect to receive from them; that makes good his Contracts, and performs his Oaths and Promiſes; that eſchews all manner of Fraud and Trick, deceives and impoſes upon and oppreſſes no Man, and does nothing but what he can honeſtly ſtand to, and juſtify, and modeſtly own without a Bluſh.</p>
+            <p>
+               <hi>Secondly,</hi> Righteouſneſs is uſed in Scripture in a more large and comprehenſive ſenſe, as it takes in our whole Duty, and includes what<g ref="char:EOLhyphen"/>ever we are oblig'd to perform towards God,
+<pb n="7" facs="tcp:100419:6"/>our Neighbour, or our Selves; all Duty being properly Righteouſneſs; and ſo it comprehends all manner of Virtue and Piety, Holineſs and Sanctity. To this purpoſe, <hi>Deut.</hi> 9.4, 5. <hi>Moſes</hi> diſſuading the People from a vain Opinion of their own Merit, and the humour of attribu<g ref="char:EOLhyphen"/>ting their Succeſſes and Victories to any thing in themſelves, words it after this manner, <hi>Speak not thou in thy heart, after the Lord thy God hath caſt them</hi> (i. e. <hi>the</hi> Canaanites) <hi>out from before thee, ſaying, For my Righteouſneſs the Lord hath brought me to poſſeſs this Land. Not for thy Righ<g ref="char:EOLhyphen"/>teouſneſs, or the <g ref="char:V">Ʋ</g>prightneſs of thy Heart doeſt thou go to poſſeſs their Land, but for the Wicked<g ref="char:EOLhyphen"/>neſs of theſe Nations the Lord thy God doth drive them out from before thee.</hi> Where the Righ<g ref="char:EOLhyphen"/>teouſneſs which he forbids them to aſſume to themſelves, muſt be ſuppoſed of an equal Lati<g ref="char:EOLhyphen"/>tude to the Wickedneſs with which he charges thoſe Nations, which was not merely their Idolatry, or any particular ſort of Vice, but Wickedneſs in general. And <hi>Rom.</hi> 6.13. the conſecrating our ſelves entirely to the ſervice of God, and leading an holy and pious Life,
+<pb n="8" facs="tcp:100419:7"/>is called, <hi>A yielding our Members Inſtruments of Righteouſneſs.</hi> And again, <hi>Luke</hi> 1.6. <hi>Zacha<g ref="char:EOLhyphen"/>rias</hi> and <hi>Elizabeth</hi> having been ſaid to be <hi>righ<g ref="char:EOLhyphen"/>teous before God,</hi> the meaning of that Chara<g ref="char:EOLhyphen"/>cter appears in the immediately ſubſequent words, viz. <hi>Walking in all the Commandments and Ordinances of the Lord blameleſs.</hi> And ac<g ref="char:EOLhyphen"/>cording to this Acceptation of the word, the righteous Man is he, that fears God, and keeps all his Commandments always; that is De<g ref="char:EOLhyphen"/>vout and Religious, Holy and Virtuous, and doth herein exerciſe himſelf to have always a Conſcience void of offence, both towards God and towards Men. Now though it be true, that Righteouſneſs taken in the ſtricter ſenſe (for the Exerciſe of Juſtice and Honeſty) does highly contribute to, and is indeed a neceſſary Inſtrument of, the Maintenance and Support, the Benefit and Advantage of Civil Societies; yet becauſe in the latter part of the Verſe men<g ref="char:EOLhyphen"/>tion is made of Sin indefinitely and univer<g ref="char:EOLhyphen"/>ſally, that the Oppoſition may be entire, I preſume the Righteouſneſs ſet againſt it ought to be underſtood in the like Latitude. Having
+<pb n="9" facs="tcp:100419:7"/>ſaid thus much towards the Explication of the Righteouſneſs here mentioned, and fixed that Notion of it, which I conceive moſt agreeable to the Deſign and Import of my Text, I proceed:</p>
+            <p n="2">II. To make out each of the Aſſertions con<g ref="char:EOLhyphen"/>tained therein; And,</p>
+            <p>
+               <hi>Firſt,</hi> That <hi>Righteouſneſs exalteth a Nation:</hi> Now ſo far forth as any thing tends to make a Nation proſperous and wealthy, and formi<g ref="char:EOLhyphen"/>dable, ſo far it likewiſe contributes to exalt their Honour and Renown; and that the ex<g ref="char:EOLhyphen"/>erciſe of an Univerſal Righteouſneſs has a Tendency towards the former, will appear in the following Particulars.</p>
+            <p>
+               <hi>Firſt,</hi> In that it entitles them to the parti<g ref="char:EOLhyphen"/>cular and extraordinary Favour of God.</p>
+            <p>
+               <hi>Secondly,</hi> In that it preſerves their Union and Agreement among themſelves.</p>
+            <p>
+               <hi>Thirdly,</hi> In that it removes the Grounds and Occaſions of Fears and Apprehenſions of Dan<g ref="char:EOLhyphen"/>ger from abroad.</p>
+            <p>
+               <hi>Fourthly,</hi> In that it comprehends the practice of all thoſe things that have a Moral Efficiency
+<pb n="10" facs="tcp:100419:8"/>towards the producing the Honour of a Nation.</p>
+            <p>
+               <hi>Firſt,</hi> The exerciſe of Univerſal Righteouſ<g ref="char:EOLhyphen"/>neſs, entitles a Nation to the particular and extraordinary Favovr of God; and ſecures him on their ſide, as a Bulwark and Defence, a Patron and Benefactour to them. Holineſs, and Juſtice, and Goodneſs and Truth, are the Perfections of the Deity, and by imitating theſe we become like to God himſelf, and are followers of him as dear Children, reſembling their Parents in Feature and Diſpoſition; we have the Similitude and Image of God renew'd upon us, and are made Partakes of a Divine Nature: And being ſo, we have all the rea<g ref="char:EOLhyphen"/>ſon in the World to believe that God is very much delighted and pleaſed with us, and has a peculiar concern and regard for us, of which we may be aſſured to find the happy Effects. For likeneſs is the Cauſe and Ground of Love; and for the ſame reaſon that he loves himſelf, <hi>viz.</hi> becauſe he is Holy and Righteous, Good and Beneficent, <hi>&amp;c.</hi> he does certainly love thoſe that imitate him in theſe
+<pb n="11" facs="tcp:100419:8"/>Perfections. <hi>The Righteous Lord loveth Righ<g ref="char:EOLhyphen"/>teouſneſs, his Eyes will</hi> (with Complacency) <hi>behold the upright,</hi> Pſal. 11.7. So long as a Nation continue to be his People, not only upon the unalienable Right of Dominion which he has over all his Creatures, but by a vo<g ref="char:EOLhyphen"/>luntary Reſignation and Surrender of them<g ref="char:EOLhyphen"/>ſelves to be govern'd by his Laws; ſo long they may hope upon good grounds that He will be Their God, and accordingly exerciſe an eſpecial and particular Providence over them. They ſhall not only be partakers in common with the reſt of Mankind of thoſe Emanations of Divine Goodneſs that are diffuſed and ſcatter<g ref="char:EOLhyphen"/>ed through all the World; but the Rayes of it ſhall be contracted and fixed upon them; They ſhall live under the warmer Influences of his Bounty, and their Preſervation be his more immediate Care. Indeed it cannot be expected that in a numerous Body of Men every one ſhould prove virtuous; but when in a Society the honour of Religion is zealouſly maintained, the public Worſhip of God ſtrictly kept up, Virtue encouraged and rewarded,
+<pb n="12" facs="tcp:100419:9"/>and Vice diſcountenanced and puniſh'd, ſo that a general Vein of Piety runs through it; theſe things do mightily advance it in the Divine Favour, and the contrary as much depreſs it. Almighty God declares to the Jews, (and conſidering that he always loves wiſely, and without any unaccountable Fond<g ref="char:EOLhyphen"/>neſs, it will hold good of any other People,) 2 <hi>Chron.</hi> 15.2. <hi>The Lord is with you while you be with him, and if you ſeek him he will be found of you; but if you forſake him he will forſake you.</hi> And again (which though it be in a particular Caſe, yet may I ſuppoſe be without any In<g ref="char:EOLhyphen"/>congruity applied to a Community) 1 <hi>Sam.</hi> 2.30. <hi>Them that honour me I will honour; and they that deſpiſe me ſhall be lightly regarded.</hi> Now the Advantages that accrue to any Na<g ref="char:EOLhyphen"/>tion by having attain'd the Divine Favour, are apparent and viſible in this, that he is to ſuch as a Friend and Allie; he proſpers their State and defends their Cauſe; he bleſſes and ſeconds their Endeavours, eſpouſes their In<g ref="char:EOLhyphen"/>tereſts, is a Friend to their Friends, and an Enemy to all their Enemies; he is their con<g ref="char:EOLhyphen"/>ſtant
+<pb n="13" facs="tcp:100419:9"/>Patron and Benefactour, and their aſſured Guardian and Protectour; he is always in the midſt of them, and Encamps himſelf round about them; he encreaſes their Basket and Store, and puts them into ſuch a Condition that they may lend to many Nations, and need not borrow; and he diſcovers all the ſly Plots and Machinations, and defeats all the unjuſt open Hoſtilities that may be attempted upon them, ſo that no Weapon form'd againſt them ſhall proſper.</p>
+            <p>
+               <hi>Secondly,</hi> The practice of Univerſal Righteouſ<g ref="char:EOLhyphen"/>neſs tends to exalt a Nation, in that it promotes Union and Agreement between its Members. Now Union is ſo indiſpenſably neceſſary towards the making a People happy, much more towards the rendring them Great, that the want of it is enough to ruine the moſt flouriſhing Kingdom in the World. The adjuſting of Supremacy and Subordi<g ref="char:EOLhyphen"/>nation, a Power to Command and a Conſent to obey, and Agreement to live together in Peace and Order, Love and Amity, thoſe are eſſential to all Conſtitutions of Government; and without them any Society would ſoon degenerate into
+<pb n="14" facs="tcp:100419:10"/>a promiſcuous Herd of Salvage Animals, con<g ref="char:EOLhyphen"/>tinually employ'd in worrying and devouring each other. Diſſention among a People, is like a latent Diſeaſe in an human Body, that ſecretly preys upon its Vitals, and from a State of Health and Vigour, reduces it by Degrees to a faint and languiſhing Condition, and is perpetually haſtning its Diſſolution. Now Pride, Ambition, Covetouſneſs, Diſcontent, Self-conceit, and other the like deviations from univerſal Righteouſneſs, do naturally ſeparate Men in Mind and Affection, and make them uncharitable and cenſorious, ungover<g ref="char:EOLhyphen"/>nable and Factious. But Religion is a ſtrong and ſure Ligament of Society; it cements Mens Affections, Unites their Souls, and ties them together by the very Heart-ſtrings; it mol<g ref="char:EOLhyphen"/>lifies their Natures and ſweetens their Tem<g ref="char:EOLhyphen"/>pers, and takes away all that roughneſs which otherwiſe would make them unfit for Con<g ref="char:EOLhyphen"/>verſation. It is altogether inconſiſtent with the Rules of Righteouſneſs for Men to Hate and Malign, to Slander and Reproach, to keep up Feuds and Animoſities, and to faſten
+<pb n="15" facs="tcp:100419:10"/>diſtinguiſhing and opprobious Names upon each other. Such Practices do directly tend to diſſolve that Union which it is the great Deſign of Religion to ſettle and eſtabliſh. The Laws of Chriſtianity have provided for the Good of Societies by laying upon them the ſtricteſt Commands backt with the higheſt Sanctions, to Peace and Love, to Charity and good Will, to deſire and rejoice in and endeavour to promote the good of each other; whereby they become a muttal Relief and Supply, Defence and Security, and every Member of a Society has a ſhare in every one; and ſo are ſure of all interchangeable Offices of Kindneſs and Friendſhip. Agreement and Unanimity are the Beauty and Strength of any Body Politick; and a Kingdom and a City by being divided forfeit them both. Now it is one great End of Chriſtianity, to conſerve Peace among Mankind; and whoever they be that do not what they can in order thereunto, whatever refin'd Names they may aſſume to themſelves, I am ſure it is by an odd Figure in Rhetorick that any wiſe Man will call them
+<pb n="16" facs="tcp:100419:11"/>Chriſtians. There is a general Complaint of the Diviſions that are among us, and there is too much reaſon for it; now the Apoſtle <hi>Rom.</hi> 16.17. bids us to <hi>Mark them which cauſe Diviſions,</hi> (an Exhortation which by Parity of Reaſon will reach as much to Factions in the State, as to Schiſms in the Church) and to avoid ſuch Men. Who they are will not eaſily be acknowledged, each Party be<g ref="char:EOLhyphen"/>ing as forward to ſhift off the Guilt, as they are to lament the Misfortune, and I ſhall not here enter into a ſtrict Scrutiny of the Mat<g ref="char:EOLhyphen"/>ter, being much more deſirous that the thing it ſelf were remov'd, than the Perſons barely diſcover'd. Only thus much I ſhall ſay, that whoever they be, who out of Pride or Self-conceit, Peeviſhneſs or Humor, Covetouſneſs or Intereſt, Ill-nature or Uncharitableneſs can oppoſe and diſturb a moſt excellently form'd Government; or who talking very much of Religion, and Practicing but little, can ſtrain at a Gnat and ſwallow a Camel, and rather than ſubmit to an innocent Ceremony, ſeparate from the Communion of the beſt eſtabliſht
+<pb n="17" facs="tcp:100419:11"/>National Church in the World, and Sacrifice her Peace to little, imaginary, groundleſs Scruples; thoſe are they, under what Deno<g ref="char:EOLhyphen"/>mination ſoever they fall, who are Cauſers of Diviſions, and ſo come within the Apoſtles Caution, and do indeed contribute very highly to the depreſſing and diminiſhing any Society they are Members of.</p>
+            <p>
+               <hi>Thirdly,</hi> The Practice of Univerſal Righteouſ<g ref="char:EOLhyphen"/>neſs tends to the exalting a Nation, as it prevents the Grounds and Occaſions of any Fears or Apprehenſions of Danger from a<g ref="char:EOLhyphen"/>broad. Since the World is not govern'd by one Univerſal Monarch, but divided into ſeveral Kingdoms and Principalities and Re<g ref="char:EOLhyphen"/>publicks, and ſince ſome ambitious Men will be always likely enough, without any juſt Pretenſions, when Occaſion offers, to en<g ref="char:EOLhyphen"/>deavour the Enlargement of their own Do<g ref="char:EOLhyphen"/>minions by the Acceſſion of new Conqueſts; it is neceſſary to ſupport the Dignity of any People that they be able to guard and de<g ref="char:EOLhyphen"/>fend themſelves againſt any foreign Attemts, or hoſtile Incurſions of their Neighbours. And
+<pb n="18" facs="tcp:100419:12"/>this the Practice of Righteouſneſs does highly contribute to, as by divers other Ways, ſo Particularly by giving a general Reputation to a People, and ſpreading their Fame wide through the World. Societies of Men are judged of by ſome common Genius that chiefly runs through the whole. For a People to be generally Induſtrious and Sober and Martial, this would gain them a ſettled Name and Credit. The Neighbouring Nations round about who obſerv'd them would ſay, ſurely this is a wiſe and an underſtanding People. And this tis manifeſt would very greatly ad<g ref="char:EOLhyphen"/>vance them, and make others willing to keep up Commerce and enter into Leagues and Alliances with them; it would render them truly great and formidable, ſo that an Am<g ref="char:EOLhyphen"/>bitious Neighbour ſhould not think it ſafe to Invade them, nor cheap to Affront them. Whereas on the contrary Wickedneſs does ſlur and reproach a Nation; for a People to be for the moſt part vicious and debauch'd and effeminate, this makes them mean and contemtible, and ſollicites and invites foreign
+<pb n="19" facs="tcp:100419:12"/>Attempts; and by adding Courage to their Enemies renders them half-conquer'd before they are engaged with.</p>
+            <p>
+               <hi>Fourthly,</hi> Univerſal Righteouſneſs does imply the Practice of all thoſe things that have a moral Efficiency towards the producing the Honour of the Nation. There are none of the Virtues which do not ſome way or other, more or leſs, contribute towards the Benefit of Society; but there are ſome which are more immediately neceſſary to the keeping up and Maintenance of its Grandeur; and the Diſpoſition to, and Exerciſe and Habit of theſe, does depend upon the Practice of all the Others. I ſuppoſe it may be ſufficient for me to inſtance only in two, <hi>viz.</hi> Wiſdom and Courage; by the former of which I do not mean a certain ſlippery Craft and Wilineſs, but a ſolid ſteady Prudence, nor by the lat<g ref="char:EOLhyphen"/>ter a ſort of raſh and brutal and Valour, but a brave and generous Fortitude. Now it will, I think, be plain that neither of thoſe can in<g ref="char:EOLhyphen"/>habit in the Breaſts of vicious Men. For with reference to Prudence, Vice does infatuate
+<pb n="20" facs="tcp:100419:13"/>their Minds, and craze their Underſtandings; and render them unfit to manage or deliberate of weighty and important Affairs. It renders them unable to diſcern, and unactive to pro<g ref="char:EOLhyphen"/>ſecute their trueſt and greateſt Intereſts. It makes them hot and firy in their Debates, raſh and precipitant in their Reſolutions, and giddy and inconſtant in their Actions. It miſguides their Judgments, and expoſes them to the danger of frequent fatal Miſtakes; and thereby ſupplants that ſettled Prudence which is required to ſupport the Dignity of a Na<g ref="char:EOLhyphen"/>tion. But ſo long as Men are ſteer'd by the Rules of Virtue, they are like to have clear and diſtinct Apprehenſions of things, and to fix on proper Means to accompliſh their honeſt Ends. Their ſight is not deluded by Pride or Paſſion or Intereſt, but they ſee things as they are in themſelves without the falſe ſhapes that thoſe or the like Vices are wont to put upon them. They ſoon foreſee Dangers and take the ſureſt Courſe to obviate them; and quickly apprehend Inconveniences and make the wiſeſt Proviſions againſt them. In like
+<pb n="21" facs="tcp:100419:13"/>manner with reſpect to Fortitude, Vice does emaſculate the Spirits, and ſoften the Minds of Men and render them unfit for great and hazardous Enterprizes. Intemperance and Debauchery, Luxury and Wantoneſs do tend to make Men Impotent and liſtleſs, cowardly and effeminate, and take off that Hardineſs of Temper which is requiſite to fit them for a Military ſtate. The wicked flee when none purſue, their Folly and Guilt expoſe them to the Terrour and Affright of falſe and Imaginary Fears. But now a Man that keeps his Virtue and Innocence entire, is inſpired with Bravery and Magnanimity, and dares meet and de<g ref="char:EOLhyphen"/>ſpiſe a Danger. Religion raiſes Men to an Heroic Conſtitution of Mind, and fills them with true Courage and Valour, and enſpirits and animates them to do mighty things in defence of their Prince, their Country, or their Religion. And becauſe theſe and other the like Virtues ſo immediately neceſſary to ſupport the Honour of a Society, are all foun<g ref="char:EOLhyphen"/>ded upon the Uniform Practiſe of Univerſal Righteouſneſs, I think I need ſay no more
+<pb n="22" facs="tcp:100419:14"/>towards the proof that <hi>Righteouſneſs exalteth a Nation,</hi> which is the former Aſſertion of my Text. I proceed now to ſpeak more briefly of the latter, <hi>viz.</hi>
+            </p>
+            <p n="2">II. <hi>Sin is a Reproach to any People.</hi> In the Management of which I ſuppoſe I need not go about to ſhew how ſin is a Reproach to a Peo<g ref="char:EOLhyphen"/>ple as taken complexly and making up a Bo<g ref="char:EOLhyphen"/>dy Politick; for that I have been doing in Effect, all the time I have been proving how much the Practice of Virtue tends to exalt the Honour and Happineſs of a Nation; but I may take the Liberty to make out how Sin is a Reproach to human Nature it ſelf, or to Men conſidered ſingly and individually, and eſ<g ref="char:EOLhyphen"/>pecially to Chriſtians. Now this will appear in the following Particulars: It is manifeſtly a Reproach to any Man:</p>
+            <p>
+               <hi>Firſt,</hi> To act contrary to the Dignity of his Nature and the Obligations of his Pro<g ref="char:EOLhyphen"/>feſſion.</p>
+            <p>
+               <hi>Secondly,</hi> To violate the Dictates of his own Conſcience.</p>
+            <pb n="23" facs="tcp:100419:14"/>
+            <p>
+               <hi>Thirdly,</hi> To be employed in doing that which ſometime or other he will certainly wiſh undone.</p>
+            <p>
+               <hi>Fourthly,</hi> To make that his choice which has no other tendency than to his Ruine.</p>
+            <p>
+               <hi>Firſt,</hi> It is a Reproach to a Man to act contrary to the Dignity of his Nature and the Obliga<g ref="char:EOLhyphen"/>tions of his Profeſſion. If we conſider our ſelves in common but as Men, all Vice is be<g ref="char:EOLhyphen"/>low us; and had we that Reverence which we ought to have for our ſelves, we ſhould be rais'd above all tentations to it, and be able to deſpiſe and reject it as a baſe, unmanly thing. Sin does deform the native Beauty, and degrade the Excellency of Mankind; their Craft turns them into Foxes, their Fierceneſs and Rage into Tygers, and their Luſt into Baboons; and it is little leſs ſhameful for us to have the ſame Diſpoſitions, than it would be to exchange Shape and Figure with thoſe Animals. But if we look upon a Man as he is a Chriſtian, He is one that profeſſes a moſt pure and holy Religion, and has agreed to be ruled and governed by the Laws of the
+<pb n="24" facs="tcp:100419:15"/>Goſpel, and ſolemnly vowed in his Baptiſm to renounce the Devil and all his Works, and obediently to keep Gods holy Will and Com<g ref="char:EOLhyphen"/>mandements, and continue Chriſts faithful Servant to his lives end; now if our Religion does ſtrictly forbid Men to be diſſolute and intemporate, Laſcivious and Wanton, Proud and Haughty, Cenſorious and Uncharitable, Turbulent and Seditious, <hi>&amp;c.</hi> any Man who allows himſelf in the Practice of theſe Vices, and yet profeſſes himſelf a Chriſtian, is falſe to his Vow and Promiſe, and an Hypocrite to his Profeſſion, and I ſuppoſe it will be granted that it muſt needs be a Reproach to be ſo.</p>
+            <p>
+               <hi>Secondly,</hi> It is a Reproach to a Man to violate the Dictates of his own Conſcience. The Quiet and Peace of our Minds is ſo abſolutely neceſſary to our Happineſs, that he muſt un<g ref="char:EOLhyphen"/>dergo the Imputation of Folly, that does not take care to preſerve them; but this no Man does who acts not according to the beſt Princi<g ref="char:EOLhyphen"/>ples he has: Now the great of our Duty are ſo plain and viſible that all Mankind cannot but
+<pb n="25" facs="tcp:100419:15"/>diſcern them; and according as they keep up to, or deviate from them, ſtand either acquitted or condemned to themſelves. But Chriſtians above all others have ſo plain, and ſo full a Diſcovery made to them in the Goſpel, that they are utterly deſtitute of any Plea of Ignorance, and have no<g ref="char:EOLhyphen"/>thing left them but to act according to their Knowledge, and live up to the Precepts contained therein. And ſince the doing the contrary will make them ſtand ſelf-condemn'd, be a perpetual Sting and Scorpion to their Souls, and continually gaul and diſeaſe their Minds, and deprive them of that inward Pleaſure and ſatisfaction with which the Performance of their Duty would always feaſt them, it muſt needs reflect diſgrace upon them thus to defeat their own End, and to ſup<g ref="char:EOLhyphen"/>plant and deſtroy their own Happineſs, of which they have a ſtrong deſire rooted in their Natures.</p>
+            <p>
+               <hi>Thirdly,</hi> It is a Reproach to a Man to be em<g ref="char:EOLhyphen"/>ploy'd in that which he will ſome time or other certainly wiſh undone. It was never accoun<g ref="char:EOLhyphen"/>ted a part of Wiſdom for a Man to exerciſe himſelf in ſuch Employments as will turn to no account, nor compenſate the time and coſt
+<pb n="26" facs="tcp:100419:16"/>and pains beſtow'd upon them; but it is down<g ref="char:EOLhyphen"/>right Folly for him to do that which he is aſſu<g ref="char:EOLhyphen"/>red beforehand he muſt repent of. And yet this is the inconſiderate Sinners wretched ſtate, he is buſie at preſent in preparing himſelf ſad future Work. If he continue impenitent 'till he be puniſh'd for his Wickedneſs in the other World, there he will with a fruitleſs and too late Remorſe everlaſtingly Reproch himſelf for his Madneſs and Stupidity; or ſuppoſe the beſt of his Caſe, if he do in this Life betake himſelf to ſober Purpoſes and make effectual Reſolutions of Amendment, yet even then he muſt un<g ref="char:EOLhyphen"/>dergo the Agonies of a ſevere Repentance, which will be accompanied with that ſhame and ſorrow, that Diſpleaſure and Indignation agaiſt himſelf, which will be much more ſharp and pungent, than ever the ſins which produc'd it were pleaſant and gratifying. Now what is more inconſiſtent with the honour of Reaſo<g ref="char:EOLhyphen"/>nable Creatures, who are endued with facul<g ref="char:EOLhyphen"/>ties which enable them to foreſee and decline a Danger, than willfully to commit that which will end ſo fatally.</p>
+            <pb n="27" facs="tcp:100419:16"/>
+            <p>
+               <hi>Fourthly,</hi> It is a Reproch for a Man to make that his own Choice which has no other Ten<g ref="char:EOLhyphen"/>dency than to his Ruine. That all the Incon<g ref="char:EOLhyphen"/>veniences and Miſeries of this Life are the pro<g ref="char:EOLhyphen"/>per Conſequences of ſin., and all the Horrours and Tortures of the next will be the unavoida<g ref="char:EOLhyphen"/>ble Puniſhment of it, is ſo plain to all that either believe Holy Writ, or conſider the Nature of things, that I need not ſtand to prove it. And what a Reflexion is it upon our Credit to chuſe ſin un<g ref="char:EOLhyphen"/>der all theſe Diſadvantages? And yet this we do; the Devil himſelf can only tempt and al<g ref="char:EOLhyphen"/>lure, but cannot force-us to it; God has not left us under a Neceſſity of ſinning, nor can any Temptations prove irreſiſtible but through our own Fault; God will not withhold from us ſufficient Grace; if we ask for it, and faithfully improve it. And if we may conquer Temtati<g ref="char:EOLhyphen"/>ons if we will, (<hi>i. e.</hi> if we concur with the Grace of God which he is ready to afford us to that end) then if we are wicked, we make ſin our own Choice, and muſt not only undergo the unavoidable Preſſures of it, but ſuffer the Reproch of the unpitiable State of being miſerable by our
+<pb n="28" facs="tcp:100419:17"/>own Election, and merely becauſe we would be ſo.</p>
+            <p>I have now done with the Conſideration of each of the Aſſertions of my Text, and I might here take occaſion to infer that the Precepts of Virtue and Piety are enjoyn'd us that it may go well with us; that God has not impoſed any thing arbitrarily upon us, nor merely to exerciſe his Soveraignty over us; but has preſcrib'd us only ſuch things as are really for the Good and Benefit of all Mankind, either ſingly or in Society. But I ſhall conclude with the Exhortation of the Apoſtle, <hi>Phil.</hi> 4.8. <hi>Brethren, whatſoever things are true, whatſoever things are honeſt, whatſoever things are juſt, whatſoever things are pure, whatſo<g ref="char:EOLhyphen"/>ever things are lovely, whatſoever things are of good report, if there be any Virtue, and if there be any Praiſe, think on theſe things:</hi> And the God of Peace be with you. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>Page 19. Line 20. <hi>dele</hi> and, p. 24. l. 23. after <hi>great,</hi> add <hi>Lines</hi>
+            </p>
+            <pb facs="tcp:100419:17"/>
+         </div>
+      </back>
+   </text>
+</TEI>
